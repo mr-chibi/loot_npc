@@ -2,7 +2,7 @@
 <p>Loot NPC is a minecraft datapack! It's Singleplayer & Multiplayer Friendly!</p>
 
 ## How to setup NPC?
-1. When pack installed! There's "2" Admin Commands (Build & Remove)
+1. When pack installed! There's <b>"2" Admin Commands (Build & Remove)</b>
 2. OP'd player will have do command: "/function loot_npc:commands/build" to place down minigame. It's directional based.
 3. If you make a mistake do NOT punch chests or NPC just use following command: <b>"/function loot_npc:commands/build"</b> and stand 1-3 blocks next to NPC.
 4. Player's can type command or Optional get a "command block" and paste this code inside: <b>"/execute as @p at @s run trigger trade_loot_npc"</b>
